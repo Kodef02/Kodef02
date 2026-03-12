@@ -1,7 +1,3 @@
-## Hi there 👋
-
-<!--
-**Kodef02/Kodef02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <div align= "center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=0:587ff3,100:7f2f2f&height=120&text=Kodef's%20Storage&animation=fadeIn&fontColor=000000&fontSize=50" />
     </div>
